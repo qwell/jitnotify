@@ -1,3 +1,6 @@
+# Visual Studio
+msbuild.binlog
+
 # OSX
 #
 .DS_Store
